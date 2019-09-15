@@ -16,10 +16,9 @@ export default function App() {
           />
         }
       />
-    </View >
+    </View>
   );
 }
-
 
 const styles = StyleSheet.create({
   container: {
@@ -27,6 +26,5 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
-    fontSize: 18
   },
 });
